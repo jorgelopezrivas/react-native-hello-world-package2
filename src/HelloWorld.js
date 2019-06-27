@@ -24,4 +24,4 @@ class HelloWorld extends React.PureComponent {
     }
 }
 
-export { HelloWorld };
+export default HelloWorld;

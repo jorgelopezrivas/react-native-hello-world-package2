@@ -3,9 +3,6 @@
 //const { HelloWorldPackage2 } = NativeModules;
 
 //export default HelloWorldPackage2;
-import { HelloWorld } from './src/HelloWorld';
 
 
-export {
-    HelloWorld
-};
+export { default as HelloWorld } from './src/HelloWorld';
