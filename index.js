@@ -4,5 +4,6 @@
 
 //export default HelloWorldPackage2;
 
+import HelloWorld from './src/HelloWorld';
 
-export { default as HelloWorld } from './src/HelloWorld';
+export { HelloWorld }; 
